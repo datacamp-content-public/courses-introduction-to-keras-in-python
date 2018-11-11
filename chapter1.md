@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Introduction to Convolutional Neural Networks
+
+```yaml
+type: VideoExercise
+key: 55a7c3bb45
+xp: 50
+```
+
+`@projector_key`
+5b71d68181d2c17f7b150f2e56187580
